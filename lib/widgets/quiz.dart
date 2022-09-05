@@ -29,7 +29,7 @@ class _nomainState extends State<nomain> {
       {
       "savol": "3. Sarvarning jinsi?",
       "javoblar": [
-        {"javob": "Erkak", "togri": true},
+        {"javob": "Erkakcha", "togri": true},
         {"javob": "Ayol", "togri": false},
         {"javob": "Narmoda", "togri": false},
         {"javob": "Aniqmas", "togri": false}
