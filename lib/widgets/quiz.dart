@@ -51,9 +51,9 @@ class _nomainState extends State<nomain> {
   int son = 0;
   int natija = 0;
 
-  void javob(bool togri){
+  void javob(bool istrue){
     setState(() {
-      if(togri){
+      if(istrue){
         natija = natija + 1;
       }
       son++;
